@@ -1,0 +1,49 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+firebase-debug.log*
+firebase-debug.*.log*
+
+# Firebase cache
+.firebase/
+.firebase/*
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage / tooling
+lib-cov
+coverage
+.nyc_output
+.grunt
+
+# Dependencies
+node_modules/
+bower_components
+
+# Build artifacts
+build/Release
+
+# npm / yarn
+.npm
+.eslintcache
+.node_repl_history
+*.tgz
+.yarn-integrity
+
+# env
+.env
+
+# dataconnect generated files
+.dataconnect
